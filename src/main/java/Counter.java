@@ -29,7 +29,7 @@ public class Counter {
 	}
 	
 	public void multiplyBy(int i){
-		count = count * i;
+		count = count *  i;
 	}
 	
 	public void triple(){
